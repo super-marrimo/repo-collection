@@ -7,6 +7,6 @@
 ### Vue.js DateTime Picker
 
   #### [vue-datetime](https://github.com/mariomka/vue-datetime)
-  ---
+  
   #### [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker)
-  ---
+  
