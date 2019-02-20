@@ -13,3 +13,6 @@
 
 #### [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker)
 > Vue.js component for eonasdan-bootstrap-datetimepicker
+
+#### [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)
+> ECharts component for Vue.js. 
