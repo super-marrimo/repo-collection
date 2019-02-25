@@ -29,3 +29,7 @@
 
 #### [aifriends](https://aifriends.github.io/) [韩文]
 韩国大田市举办的AI论坛的日程发表网站
+
+#### [케라스 강좌 내용](https://tykimos.github.io/lecture/) [韩文]
+Keras韩国官网的管理人(?)所著写的书, 的Blog版本. 趣味生动的讲解了DeepLearning的基础, 以及Keras的使用.
+适合新手入门.
