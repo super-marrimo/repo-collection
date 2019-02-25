@@ -20,3 +20,12 @@
 > ECharts component for Vue.js.
 
 百度 Echart的VueJS 打包.
+
+## Deep Learning 深度学习
+#### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
+> 실습 강의 자료
+
+朋友推荐的讲义, 由韩国公司**Aidentify**撰写
+
+#### [aifriends](https://aifriends.github.io/) [韩文]
+韩国大田市举办的AI论坛的日程发表网站
