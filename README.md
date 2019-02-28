@@ -16,10 +16,20 @@
 #### [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker)
 > Vue.js component for eonasdan-bootstrap-datetimepicker
 
+### Chart
+
 #### [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)
 > ECharts component for Vue.js.
 
 百度 Echart的VueJS 打包.
+
+### List
+
+#### [hilongjw/vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
+Mastering Large Lists with the vue-recyclerview https://hilongjw.github.io/vue-recycl…
+
+#### [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
+⚡️ A vue component support big data list with high scroll performance.
 
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
