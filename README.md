@@ -37,6 +37,12 @@ component的位置由于是`position: absolute`, 高度在渲染之后是固定�
 #### [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
 > ⚡️ A vue component support big data list with high scroll performance.
 
+#### [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+> ⚡️ Blazing fast scrolling for any amount of data https://akryum.github.io/vue-virtual-…
+
+#### [starkwang/vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection)
+>Vue component for efficiently rendering large collection data https://starkwang.github.io/vue-virtu…
+
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
 > 실습 강의 자료
