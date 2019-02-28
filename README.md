@@ -27,8 +27,10 @@
 
 #### [hilongjw/vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
 > Mastering Large Lists with the vue-recyclerview https://hilongjw.github.io/vue-recycl…
+
 List Item 不能自己控制, 只能将 component和data交给插件, 让他自己渲染, 这样导致component内部读取不到 $root, $router, $store 等常用Scope, 
 尝试过将$store,$root中必要的数据和方法map到各个data里转交到component, 但使用起来总是用这样那样的问题.
+
 component的位置由于是`position: absolute`, 高度在渲染之后是固定的, 在需要list Item 能够改变高度的的需求上力不从心(例如, item里有折叠内容之类).
 适合轻量级的列表使用.
 
