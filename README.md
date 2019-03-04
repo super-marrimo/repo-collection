@@ -43,6 +43,11 @@ component的位置由于是`position: absolute`, 高度在渲染之后是固定�
 #### [starkwang/vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection)
 >Vue component for efficiently rendering large collection data https://starkwang.github.io/vue-virtu…
 
+#### [stackjie/vue-pull-to](https://github.com/stackjie/vue-pull-to)
+>⚡️ A pull-down refresh and pull-up load more and infinite scroll component for Vue.js --Vue下拉刷新组件
+
+下拉刷新组件, 能够控制下拉动作打开或关闭, 比mint-ui的loadmore要好用些. 
+
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
 > 실습 강의 자료
