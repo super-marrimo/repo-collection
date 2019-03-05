@@ -6,6 +6,12 @@
 > Github自带的星标无法分组或管理, 索性就新挖了个库来做收藏
 
 ## Vue.js
+### Vuex
+#### [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist)
+> A Vuex plugin to persist the store. (Fully Typescript enabled) http://championswimmer.in/vuex-persist
+
+将内存中Vuex的数据保存在localStorage的插件, 据说refresh不会丢失数据. 还没用过/
+
 ### Vue.js DateTime Picker
 
 #### [vue-datetime](https://github.com/mariomka/vue-datetime)
