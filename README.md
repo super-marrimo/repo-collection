@@ -42,16 +42,21 @@ component的位置由于是`position: absolute`, 高度在渲染之后是固定�
 
 #### [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
 > ⚡️ A vue component support big data list with high scroll performance.
+
 由variableHeigt函数获取每个子项目的高度并进行虚拟列表计算, 但variableHeight的调用时机和子项目dom的渲染时机不准确, 获取不到真实高度, 
 所以一开始放弃使用.
+
 但后来发现虚拟列表的动态高度计算能力都很差, (比如楼下的vue-virtual-scroller), 研究一番又回来尝试了一下,
 才发现这个组件自定义功能比较丰富, 是个很有扩展力的组件. 对作者不禁心生佩服.
 虚拟高度的计算也利用子项目自身的mounted函数来返回自身dom高度并实时更新列表来解决,  虽然还不是很完美, 但值得细细推敲.(谁叫11c的画面需求比较复杂)
 
 #### [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 > ⚡️ Blazing fast scrolling for any amount of data https://akryum.github.io/vue-virtual-…
+
 VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟列表也不为过, 但由于结构比较复杂, 而且我对slot的各种嵌套很不熟悉, 最后没有能完成需求, 中途放弃. 
 动态计算列表高度还是不完美.
+
+作者似乎也是个牛人, chrome 的 Vue debug Tool 好像就是他开发的.
 
 #### [starkwang/vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection)
 >Vue component for efficiently rendering large collection data https://starkwang.github.io/vue-virtu…
