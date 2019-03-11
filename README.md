@@ -42,9 +42,16 @@ component的位置由于是`position: absolute`, 高度在渲染之后是固定�
 
 #### [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
 > ⚡️ A vue component support big data list with high scroll performance.
+由variableHeigt函数获取每个子项目的高度并进行虚拟列表计算, 但variableHeight的调用时机和子项目dom的渲染时机不准确, 获取不到真实高度, 
+所以一开始放弃使用.
+但后来发现虚拟列表的动态高度计算能力都很差, (比如楼下的vue-virtual-scroller), 研究一番又回来尝试了一下,
+才发现这个组件自定义功能比较丰富, 是个很有扩展力的组件. 对作者不禁心生佩服.
+虚拟高度的计算也利用子项目自身的mounted函数来返回自身dom高度并实时更新列表来解决,  虽然还不是很完美, 但值得细细推敲.(谁叫11c的画面需求比较复杂)
 
 #### [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 > ⚡️ Blazing fast scrolling for any amount of data https://akryum.github.io/vue-virtual-…
+VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟列表也不为过, 但由于结构比较复杂, 而且我对slot的各种嵌套很不熟悉, 最后没有能完成需求, 中途放弃. 
+动态计算列表高度还是不完美.
 
 #### [starkwang/vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection)
 >Vue component for efficiently rendering large collection data https://starkwang.github.io/vue-virtu…
@@ -53,6 +60,7 @@ component的位置由于是`position: absolute`, 高度在渲染之后是固定�
 >⚡️ A pull-down refresh and pull-up load more and infinite scroll component for Vue.js --Vue下拉刷新组件
 
 下拉刷新组件, 能够控制下拉动作打开或关闭, 比mint-ui的loadmore要好用些. 
+更新: 发现被包含的组件里横向滚动似乎被禁止(或者是有影响), [11C]项目里列表中有横向滚动的相册组件, 所以放弃.
 
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
