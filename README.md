@@ -67,6 +67,11 @@ VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟�
 下拉刷新组件, 能够控制下拉动作打开或关闭, 比mint-ui的loadmore要好用些. 
 更新: 发现被包含的组件里横向滚动似乎被禁止(或者是有影响), [11C]项目里列表中有横向滚动的相册组件, 所以放弃.
 
+## Python
+### 爬虫
+#### [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
+😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
+
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
 > 실습 강의 자료
