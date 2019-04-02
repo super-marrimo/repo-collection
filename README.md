@@ -72,6 +72,10 @@ VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟�
 #### [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 
+### insta 
+#### [instabot-py/instabot.py](https://github.com/instabot-py/instabot.py)
+Instagram bot. It works without instagram api, need only login and password. Write on python.
+
 ## Deep Learning 深度学习
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
 > 실습 강의 자료
