@@ -91,3 +91,8 @@ Keras韩国官网的管理人(?)所著写的书, 的Blog版本. 趣味生动的�
 
 #### [clone95/Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)
 Machine Learning 路线图.
+
+#### [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)
+> 《神经网络与深度学习》 Neural Network and Deep Learning https://nndl.github.io
+
+复旦大学教授邱锡鹏撰写的中文版深度学习入门书. 有PPT.
