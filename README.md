@@ -84,6 +84,9 @@ VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟�
 Instagram bot. It works without instagram api, need only login and password. Write on python.
 
 ## Deep Learning 深度学习
+
+### 教程
+
 #### [aidentify/lecture](https://github.com/aidentify/lecture)[韩文]
 > 실습 강의 자료
 
@@ -103,3 +106,10 @@ Machine Learning 路线图.
 > 《神经网络与深度学习》 Neural Network and Deep Learning https://nndl.github.io
 
 复旦大学教授邱锡鹏撰写的中文版深度学习入门书. 有PPT.
+
+### 库
+#### [STVIR/pysot](https://github.com/STVIR/pysot)
+> PySOT is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including SiamRPN and SiamMask. It is written in Python and powered by the PyTorch deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
+PySOT has enabled research projects, including: SiamRPN, DaSiamRPN, SiamRPN++, and SiamMask.
+
+商汤科技公开的目标跟踪库 PySOT
