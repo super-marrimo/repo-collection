@@ -107,6 +107,11 @@ Machine Learning 路线图.
 
 复旦大学教授邱锡鹏撰写的中文版深度学习入门书. 有PPT.
 
+#### [INTERMT/Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
+> 【干货】史上最全的PyTorch学习资源汇总 http://www.pytorchchina.comp
+
+pytorch 学习地图, 由 http://pytorchchina.com/ 的站长创建. 
+
 ### 库
 #### [STVIR/pysot](https://github.com/STVIR/pysot)
 > PySOT is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including SiamRPN and SiamMask. It is written in Python and powered by the PyTorch deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
