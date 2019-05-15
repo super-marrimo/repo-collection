@@ -83,6 +83,10 @@ VueJS的组件使用教程里有推荐到这个组件, 可以说是官方虚拟�
 #### [instabot-py/instabot.py](https://github.com/instabot-py/instabot.py)
 Instagram bot. It works without instagram api, need only login and password. Write on python.
 
+### python教程
+#### [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+>Python - 100天从新手到大师
+
 ## Deep Learning 深度学习
 
 ### 教程
