@@ -122,3 +122,8 @@ pytorch 学习地图, 由 http://pytorchchina.com/ 的站长创建.
 PySOT has enabled research projects, including: SiamRPN, DaSiamRPN, SiamRPN++, and SiamMask.
 
 商汤科技公开的目标跟踪库 PySOT
+
+#### [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)
+> A collection of various deep learning architectures, models, and tips
+
+公众号`CVer`里推荐的项目, 据说作者是行业内github follower数第二的大佬, 是一名大学教授. 库中有实现DeepLearning 大量各种model的代码.
